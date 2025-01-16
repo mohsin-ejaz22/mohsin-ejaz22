@@ -2,9 +2,8 @@
 - 👀 I’m interested in Web development.
 - 🌱 I’m currently learning Mern stack.
 - 💞️ I’m looking to collaborate on Projects.
-- 📫 How to reach me...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 📫 contact me on whatsapp : 03434868545
+
 
 <!---
 mohsin-ejaz22/mohsin-ejaz22 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
