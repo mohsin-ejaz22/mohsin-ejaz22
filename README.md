@@ -1,8 +1,9 @@
-- 👋 Hi, I’m @mohsin-ejaz22
+- 👋 Hi, I’m Mohsin Ejaz Parvi.
 - 👀 I’m interested in Web development.
-- 🌱 I’m currently learning Mern stack.
+- 🌱 I’m a Mern stack developer.
 - 💞️ I’m looking to collaborate on Projects.
 - 📫 contact me on whatsapp : 03434868545
+- 📫 email me on : mohsinejaz734@gmail.com
 
 
 <!---
